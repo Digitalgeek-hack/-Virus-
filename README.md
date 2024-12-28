@@ -1,5 +1,5 @@
 # 📛Virus📛
-A virus page created by EmmyHenz [For Fun Only]
+A virus page created by Muzan tech [For Fun Only]
 
 ## How to Host
 STEP1: FORK THE REPO
@@ -14,6 +14,7 @@ Deploy on github page (https://github.com)
 ## TAKE NOTE
 
 ## THIS WAS CREATED FOR EDUCATIONAL PURPOSES ONLY
-# JOIN US https://t.me/EMMYHENZTECHINFO
+# JOIN US
+https://whatsapp.com/channel/0029VasZwtl6LwHqW3olOH44
 
-EMMY HENZ
+muzan tech
